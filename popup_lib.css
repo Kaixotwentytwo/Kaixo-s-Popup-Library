@@ -1,0 +1,16 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    background: #2e2e2e;
+    margin: 0;
+    /* overflow: hidden; */
+}
+
+.popupSwitch {
+    user-select: none;
+    cursor: pointer;
+}
+
+.popup {
+    transition: .2s ease;
+}
